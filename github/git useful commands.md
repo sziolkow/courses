@@ -22,6 +22,11 @@ git log --until=2019-01-01  #commits until the date
 git log --author="author"
 git log --grep="text"				#search for commits with text in message
 
+```
 
+Differences
+
+```
+git -diff --color-words #colors changed words
 ```
 
